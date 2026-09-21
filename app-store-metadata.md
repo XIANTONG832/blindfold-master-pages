@@ -52,6 +52,6 @@ blindfolded cubing,3x3,memo,edge buffer,corner buffer,algorithms,parity,cube tim
 
 ## Website URLs after GitHub Pages is enabled
 
-- Marketing URL: `https://YOUR-USERNAME.github.io/blindfold-master-site/`
-- Technical support URL: `https://YOUR-USERNAME.github.io/blindfold-master-site/support/`
-- Privacy policy URL: `https://YOUR-USERNAME.github.io/blindfold-master-site/support/privacy.html`
+- Marketing URL: `https://XIANTONG832.github.io/blindfold-master-pages/`
+- Technical support URL: `https://XIANTONG832.github.io/blindfold-master-pages/support/`
+- Privacy policy URL: `https://XIANTONG832.github.io/blindfold-master-pages/support/privacy.html`
